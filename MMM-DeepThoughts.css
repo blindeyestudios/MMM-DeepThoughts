@@ -1,0 +1,17 @@
+.deep-thoughts {
+  text-align: center;
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+}
+
+.inspirational {
+  font-size: 1.1rem;
+  color: #00f7ff;
+  margin-bottom: 10px;
+}
+
+.weird {
+  font-size: 1rem;
+  color: #ff99ff;
+  font-style: italic;
+}
