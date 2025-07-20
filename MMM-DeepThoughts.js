@@ -1,4 +1,4 @@
-Module.register("MMM-DeepThought", {
+Module.register("MMM-DeepThoughts", {
     defaults: {
         updateInterval: 60 * 60 * 1000, // 1 hour
     },
