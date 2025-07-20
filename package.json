@@ -4,6 +4,6 @@
   "description": "A MagicMirror module that shows inspirational and weird thoughts every hour.",
   "main": "MMM-DeepThoughts.js",
   "dependencies": {
-    "node-fetch": "^3.0.0"
+    "node-fetch": "^2.6.7"
   }
 }
