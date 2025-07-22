@@ -1,4 +1,4 @@
-# MMM-DeepThought
+# MMM-DeepThoughts
 
 A MagicMirror module that shows one inspirational quote and one weird/funny thought every hour.
 
@@ -6,8 +6,8 @@ A MagicMirror module that shows one inspirational quote and one weird/funny thou
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/YOUR_USERNAME/MMM-DeepThought.git
-cd MMM-DeepThought
+git clone https://github.com/YOUR_USERNAME/MMM-DeepThoughts.git
+cd MMM-DeepThoughts
 npm install
 ```
 
